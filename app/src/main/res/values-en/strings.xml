@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catalol donation</string>
+    <string name="letrero">Thanks for the donation, we take a beer thinking of you</string>
+    <string name="dialog">Thanks! :D</string>
+</resources>
