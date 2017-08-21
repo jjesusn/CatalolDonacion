@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        ImageView img = (ImageView) findViewById(R.id.imageView);
+       /* ImageView img = (ImageView) findViewById(R.id.imageView);
         assert img != null;
         img.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -39,6 +39,6 @@ public class MainActivity extends AppCompatActivity {
                 AlertDialog alert11 = builder1.create();
                 alert11.show();
             }
-        });
+        });*/
     }
 }

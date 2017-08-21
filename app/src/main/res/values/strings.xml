@@ -2,5 +2,5 @@
     <string name="app_name">Catalol donation</string>
     <string name="action_settings" translatable="false">Settings</string>
     <string name="letrero">Gracias por tu donación, cuando nos tomemos una cerveza pensaremos en ti</string>
-    <string name="dialog">¡Gracias! :D</string>
+    <string name="dialog">¡Gracias!</string>
 </resources>
